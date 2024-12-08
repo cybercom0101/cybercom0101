@@ -77,10 +77,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/cybercom0101/cybercom0101/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">

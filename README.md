@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m Mohammed Fahad, a passionate Cybersecurity Enthusiast<br>.🌐 Check out my portfolio: https://cybercom0101.carrd.co/</h2>
+<h2 align="left">👋 Hi, I’m Mohammed Fahad, a passionate Cybersecurity Enthusiast<br>🌐 Check out my portfolio: https://cybercom0101.carrd.co/</h2>
 
 ###
 

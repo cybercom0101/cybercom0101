@@ -27,9 +27,10 @@ Working towards: OSCP, CRTP
 
 ### Writing and practice
 
-- **Breaking the Web**, an offensive security series on Medium
+- **[Breaking the Web](https://medium.com/@cybercom0101)**, a 10-part web application security series on Medium, from SQL injection and XSS to business logic flaws and chaining vulnerabilities
+- **PortSwigger lab write-ups** on Medium, explaining each authentication bypass, why it works and how to fix it
 - **TryHackMe:** top 1%, 217 rooms completed ([cybercom0101](https://tryhackme.com/p/cybercom0101))
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/mohammed-fahad-cybercom)
+[LinkedIn](https://www.linkedin.com/in/mohammed-fahad-cybercom) | [Medium](https://medium.com/@cybercom0101)
